@@ -1,0 +1,281 @@
+[
+   {
+     "samagraId": "123456",
+     "name": "John Doe",
+     "fatherName": "Michael Doe",
+     "dob": "1990-05-15",
+     "gender": "Male",
+     "maritalStatus": "Married",
+     "education": "Graduate",
+     "occupation": "Engineer",
+     "contact": "1234567890",
+     "familyMembers": "3",
+     "address": "123 Main Street, City",
+     "family": [
+       {
+         "member_name": "Jane Doe",
+         "member_fatherName": "Michael Doe",
+         "gender": "Female",
+         "member_dob": "1992-08-25",
+         "member_maritalStatus": "Single",
+         "member_relative": "Daughter"
+       },
+       {
+         "member_name": "Bob Doe",
+         "member_fatherName": "Michael Doe",
+         "gender": "Male",
+         "member_dob": "1995-10-12",
+         "member_maritalStatus": "Single",
+         "member_relative": "Son"
+       }
+     ]
+   },
+   {
+     "samagraId": "789012",
+     "name": "Jane Smith",
+     "fatherName": "David Smith",
+     "dob": "1988-03-10",
+     "gender": "Female",
+     "maritalStatus": "Married",
+     "education": "Postgraduate",
+     "occupation": "Doctor",
+     "contact": "9876543210",
+     "familyMembers": "2",
+     "address": "456 Oak Avenue, Town",
+     "family": [
+       {
+         "member_name": "Sarah Smith",
+         "member_fatherName": "David Smith",
+         "gender": "Female",
+         "member_dob": "2015-07-02",
+         "member_maritalStatus": "Single",
+         "member_relative": "Daughter"
+       }
+     ]
+   },
+   {
+     "samagraId": "567890",
+     "name": "Robert Johnson",
+     "fatherName": "Peter Johnson",
+     "dob": "1985-11-20",
+     "gender": "Male",
+     "maritalStatus": "Married",
+     "education": "Undergraduate",
+     "occupation": "Teacher",
+     "contact": "9998887776",
+     "familyMembers": "4",
+     "address": "789 Pine Street, Village",
+     "family": [
+       {
+         "member_name": "Emily Johnson",
+         "member_fatherName": "Peter Johnson",
+         "gender": "Female",
+         "member_dob": "1990-06-30",
+         "member_maritalStatus": "Married",
+         "member_relative": "Daughter-in-law"
+       },
+       {
+         "member_name": "Tom Johnson",
+         "member_fatherName": "Robert Johnson",
+         "gender": "Male",
+         "member_dob": "2015-04-05",
+         "member_maritalStatus": "Single",
+         "member_relative": "Son"
+       },
+       {
+         "member_name": "Lucy Johnson",
+         "member_fatherName": "Robert Johnson",
+         "gender": "Female",
+         "member_dob": "2019-12-12",
+         "member_maritalStatus": "Unmarried",
+         "member_relative": "Daughter"
+       }
+     ]
+   },
+   {
+     "samagraId": "234567",
+     "name": "Emily Williams",
+     "fatherName": "Daniel Williams",
+     "dob": "1992-09-22",
+     "gender": "Female",
+     "maritalStatus": "Single",
+     "education": "Postgraduate",
+     "occupation": "Engineer",
+     "contact": "8889997775",
+     "familyMembers": "1",
+     "address": "567 Maple Road, Suburb",
+     "family": []
+   },
+   {
+     "samagraId": "901234",
+     "name": "Michael Brown",
+     "fatherName": "William Brown",
+     "dob": "1975-04-18",
+     "gender": "Male",
+     "maritalStatus": "Married",
+     "education": "Graduate",
+     "occupation": "Business Owner",
+     "contact": "7778889994",
+     "familyMembers": "5",
+     "address": "234 Cedar Lane, Town",
+     "family": [
+       {
+         "member_name": "Laura Brown",
+         "member_fatherName": "William Brown",
+         "gender": "Female",
+         "member_dob": "1978-12-05",
+         "member_maritalStatus": "Married",
+         "member_relative": "Wife"
+       },
+       {
+         "member_name": "Emma Brown",
+         "member_fatherName": "Michael Brown",
+         "gender": "Female",
+         "member_dob": "2005-11-08",
+         "member_maritalStatus": "Single",
+         "member_relative": "Daughter"
+       },
+       {
+         "member_name": "Oliver Brown",
+         "member_fatherName": "Michael Brown",
+         "gender": "Male",
+         "member_dob": "2008-07-20",
+         "member_maritalStatus": "Single",
+         "member_relative": "Son"
+       },
+       {
+         "member_name": "Sophia Brown",
+         "member_fatherName": "Michael Brown",
+         "gender": "Female",
+         "member_dob": "2012-03-15",
+         "member_maritalStatus": "Unmarried",
+         "member_relative": "Daughter"
+       }
+     ]
+   },
+   {
+     "samagraId": "678901",
+     "name": "David Miller",
+     "fatherName": "John Miller",
+     "dob": "1980-07-12",
+     "gender": "Male",
+     "maritalStatus": "Married",
+     "education": "Graduate",
+     "occupation": "Architect",
+     "contact": "6667778883",
+     "familyMembers": "2",
+     "address": "789 Oak Street, City",
+     "family": [
+       {
+         "member_name": "Emma Miller",
+         "member_fatherName": "John Miller",
+         "gender": "Female",
+         "member_dob": "1985-03-25",
+         "member_maritalStatus": "Married",
+         "member_relative": "Wife"
+       }
+     ]
+   },
+   {
+     "samagraId": "345678",
+     "name": "Sophia Taylor",
+     "fatherName": "Richard Taylor",
+     "dob": "1995-02-28",
+     "gender": "Female",
+     "maritalStatus": "Unmarried",
+     "education": "Postgraduate",
+     "occupation": "Doctor",
+     "contact": "5556667772",
+     "familyMembers": "3",
+     "address": "345 Elm Avenue, Suburb",
+     "family": [
+       {
+         "member_name": "William Taylor",
+         "member_fatherName": "Richard Taylor",
+         "gender": "Male",
+         "member_dob": "1980-11-02",
+         "member_maritalStatus": "Married",
+         "member_relative": "Brother"
+       },
+       {
+         "member_name": "Lily Taylor",
+         "member_fatherName": "Richard Taylor",
+         "gender": "Female",
+         "member_dob": "1982-06-15",
+         "member_maritalStatus": "Married",
+         "member_relative": "Sister-in-law"
+       }
+     ]
+   },
+   {
+     "samagraId": "789012",
+     "name": "William Clark",
+     "fatherName": "George Clark",
+     "dob": "1972-09-10",
+     "gender": "Male",
+     "maritalStatus": "Married",
+     "education": "Postgraduate",
+     "occupation": "Professor",
+     "contact": "4445556661",
+     "familyMembers": "4",
+     "address": "123 Oak Lane, Town",
+     "family": [
+       {
+         "member_name": "Olivia Clark",
+         "member_fatherName": "George Clark",
+         "gender": "Female",
+         "member_dob": "1974-12-08",
+         "member_maritalStatus": "Married",
+         "member_relative": "Wife"
+       },
+       {
+         "member_name": "Noah Clark",
+         "member_fatherName": "William Clark",
+         "gender": "Male",
+         "member_dob": "2000-05-22",
+         "member_maritalStatus": "Single",
+         "member_relative": "Son"
+       },
+       {
+         "member_name": "Sophie Clark",
+         "member_fatherName": "William Clark",
+         "gender": "Female",
+         "member_dob": "2003-03-17",
+         "member_maritalStatus": "Unmarried",
+         "member_relative": "Daughter"
+       }
+     ]
+   },
+   {
+     "samagraId": "456789",
+     "name": "Oliver Turner",
+     "fatherName": "Andrew Turner",
+     "dob": "1998-06-30",
+     "gender": "Male",
+     "maritalStatus": "Unmarried",
+     "education": "Undergraduate",
+     "occupation": "Student",
+     "contact": "3334445558",
+     "familyMembers": "3",
+     "address": "567 Maple Street, City",
+     "family": [
+       {
+         "member_name": "Ava Turner",
+         "member_fatherName": "Andrew Turner",
+         "gender": "Female",
+         "member_dob": "1970-11-12",
+         "member_maritalStatus": "Married",
+         "member_relative": "Mother"
+       },
+       {
+         "member_name": "Ethan Turner",
+         "member_fatherName": "Andrew Turner",
+         "gender": "Male",
+         "member_dob": "1972-09-25",
+         "member_maritalStatus": "Married",
+         "member_relative": "Father"
+       }
+     ]
+   }
+ ]
+ 
